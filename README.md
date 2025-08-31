@@ -1,5 +1,3 @@
-# SnapStore-E-commerce-App
-
 # 🛍️ SnapStore - Modern E-commerce Platform
 
 A responsive e-commerce web application built with Vite, HTML, CSS, and JavaScript. This project demonstrates modern web development practices and e-commerce functionality.
@@ -95,8 +93,3 @@ SnapStore/
 - Mobile-first approach
 - Interactive product cards
 
----
-
-```
-
-```
