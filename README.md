@@ -93,8 +93,3 @@ SnapStore/
 - Mobile-first approach
 - Interactive product cards
 
----
-
-```
-
-```
